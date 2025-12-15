@@ -216,3 +216,5 @@ SELECT *
 FROM cleaned_employees
 order by duration_days;
 
+------------------------ END ------------------------
+
