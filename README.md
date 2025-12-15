@@ -95,6 +95,6 @@ The final cleaned dataset is suitable for:
 ## 🙋‍♂️ About Me
 I am transitioning into Data Analytics with hands-on SQL, Power BI, and Excel projects focused on real-world business problems.
 
-📌 **LinkedIn:** (add link)  
-📌 **GitHub:** (this repo)
+📌 **LinkedIn:** www.linkedin.com/in/arun-m-data 
+📌 **GitHub:** https://github.com/Arun-M-02/HR_SQL_Case_Study
 
